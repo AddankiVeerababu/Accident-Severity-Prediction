@@ -68,4 +68,4 @@ This project leverages a real-world dataset with multiple accident contexts and 
 🌐 **Live Demo / Website**
 
 Explore the Website here:  
-🔗 [Click here to view Website([https://your-website-link.com](https://sites.google.com/view/accident-severity-prediction/home))
+🔗 [Click here to view Website([https://sites.google.com/view/accident-severity-prediction/home](https://sites.google.com/view/accident-severity-prediction/home))
