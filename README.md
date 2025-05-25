@@ -65,9 +65,7 @@ This project leverages a real-world dataset with multiple accident contexts and 
 
 ---
 
-🚀 **How to Run**
+🌐 **Live Demo / Website**
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/accident-severity-prediction.git
-   cd accident-severity-prediction
+Explore the Website here:  
+🔗 [Click here to view Website([https://your-website-link.com](https://sites.google.com/view/accident-severity-prediction/home))
